@@ -1,5 +1,7 @@
 # MAIPO: Multi-Agent Interactive Prompt Optimization for OR/Optimization
 
+This is the repository of our accepted paper **She, C., Lu, X., Chen, Z., Wang, J., & Zhao, P. (2026). Cooperation Makes Better: Multi-agent Interactive Evolution Framework in LLM4OR. Expert Systems with Applications, 133754.** https://doi.org/10.1016/j.eswa.2026.133754
+
 **MAIPO** is a multi-agent, iterative prompt-optimization framework for operations research and optimization tasks. It orchestrates multiple roles (Doctor, Professor, Evolver, Conductor, Student, etc.) to mimic a research group discussion loop that improves prompts, generates code, tests solutions, and feeds back errors.
 
 ## Technical Outline
